@@ -29,3 +29,7 @@ The dashboard helps identify traffic congestion trends, peak traffic hours, and 
 - Data Visualization
 - Dashboard Development
 - Business Insights
+
+## Dashboard Preview
+
+![Dashboard](1000067863.png)
